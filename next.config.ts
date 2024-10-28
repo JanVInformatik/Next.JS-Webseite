@@ -5,3 +5,11 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+// const nextPrintHelloWorld: Lmao = {
+//helloWorld() {
+//console.log("Hello World!");
+//},
+//};
+
+//export default function nextPrintHelloWorld();
